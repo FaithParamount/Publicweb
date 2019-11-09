@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>this is public event @yield('tittle','开始')</title>
     
-    <link rel="stylesheet" href="/css/app.css">
+    <link rel="stylesheet" href="{{mix('css/app.css')}}">
     <!-- 
         <link rel="stylesheet" href=""> 
     -->
