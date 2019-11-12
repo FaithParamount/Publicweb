@@ -11116,11 +11116,11 @@ footer {
 }
 
 footer a {
-  color: #555;
+  color: #222;
 }
 
 footer a:hover {
-  color: #222;
+  color: blue;
 }
 
 footer small {
