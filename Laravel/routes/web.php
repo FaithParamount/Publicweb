@@ -1,7 +1,7 @@
 <?php
-route::get('/','StaticPagesController@home');
-route::get('/help','StaticPagesController@help');
-route::get('/about','StaticPagesController@about');
+route::get('/','StaticPagesController@home')->name('home');
+route::get('/help','StaticPagesController@help')->name('help');
+route::get('/about','StaticPagesController@about')->name('about');
 /*
 |--------------------------------------------------------------------------
 | Web Routes

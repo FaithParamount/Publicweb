@@ -9,7 +9,6 @@
         DisPlay
         </p>
         <p>
-            <a class="btn btn-lg btn-success" href="#" role="button">登录</a>
             <a class="btn btn-lg btn-success" href="#" role="button">注册</a>
         </p>
       </div>
