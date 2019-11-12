@@ -6,10 +6,11 @@
           你现在所看到的是 <a href="https://learnku.com/courses/laravel-essential-training">Laravel 入门教程</a> 的示例项目主页。
         </p>
         <p>
-          一切，将从这里开始。
+        DisPlay
         </p>
         <p>
-          <a class="btn btn-lg btn-success" href="#" role="button">现在注册</a>
+            <a class="btn btn-lg btn-success" href="#" role="button">登录</a>
+            <a class="btn btn-lg btn-success" href="#" role="button">注册</a>
         </p>
       </div>
 @stop
