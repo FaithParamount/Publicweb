@@ -1,5 +1,5 @@
 @extends('layouts.default');
 @section('content')
-   注册
+   <h1>注册</h1>
 @stop
 @section('tittle','注册');
