@@ -2,7 +2,7 @@
 route::get('/','StaticPagesController@home')->name('home');
 route::get('/help','StaticPagesController@help')->name('help');
 route::get('/about','StaticPagesController@about')->name('about');
-routr::get('/signup','StaticPagesController@create')->name('signup');
+route::get('/signup','UserController@signup')->name('signup');
 /*
 |--------------------------------------------------------------------------
 | Web Routes
