@@ -8,6 +8,6 @@ class UsersController extends Controller
 {
     public function signup()
     {
-        return view("users.signup");
+        return view('users/signup');
     }//
 }
